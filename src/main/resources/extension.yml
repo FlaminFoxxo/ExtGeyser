@@ -1,0 +1,11 @@
+id: infinitefish-bedrock-ui
+name: InfiniteFishing Bedrock UI
+version: "1.0.0"
+authors:
+  - aftsmp
+description: >
+  Intercepts InfiniteFishing minigame title packets and replaces the
+  tiny bitmap bar characters with a proper Bedrock boss bar showing
+  pointer position and whether the player is inside the catch zone.
+main: io.github.aftsmp.ifgeyser.InfiniteFishingExtension
+dependencies: []
