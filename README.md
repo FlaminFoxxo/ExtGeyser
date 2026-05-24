@@ -55,4 +55,4 @@ Pair this with the fixed resource pack:
 `Kafal-Java2Bedrock-gui-offsets-FIXED.mcpack`
 
 That pack scales up the **Evaluator GUI** (fish evaluation chest overlay) 2.5×
-so it's readable too.
+so it's readable too..
