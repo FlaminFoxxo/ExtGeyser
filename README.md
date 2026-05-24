@@ -1,6 +1,6 @@
 # InfiniteFishing Geyser Extension
 
-Replaces InfiniteFishing's tiny minigame bars on Bedrock with a proper boss bar.
+Replaces InfiniteFishing's tiny minigame bars on Bedrock with a proper boss bar. Created For the FoxCraft SMP by FlaminFoxxo.
 
 ## How it works
 
