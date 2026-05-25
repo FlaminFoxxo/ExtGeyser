@@ -1,0 +1,7 @@
+id: infinitefish-bedrock-ui
+name: InfiniteFishing.Bedrock.UI
+version: "1.0.0"
+api: "2.3.0"
+authors:
+  - aftsmp
+main: io.github.aftsmp.ifgeyser.InfiniteFishingExtension
